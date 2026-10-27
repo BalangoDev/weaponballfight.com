@@ -1,2 +1,1 @@
-# weaponballfight.com
-Website for Weapon Ball Fight
+i am poor and i want to use github hosting
